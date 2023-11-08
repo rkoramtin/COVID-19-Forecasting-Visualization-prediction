@@ -42,12 +42,7 @@ To run this notebook:
     Install the required dependencies listed in the requirements.txt file.
     Launch Jupyter Notebook and open the .ipynb file to view the analysis.
 
-Dependencies
-
-    Python 3.x
-    Pandas
-    NumPy
-    Matplotlib
-    Scikit-learn
 
 
+![alt text](Untitled1.png)
+![alt text](Untitled2.png)
