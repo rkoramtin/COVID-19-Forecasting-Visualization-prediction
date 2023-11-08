@@ -2,7 +2,9 @@
 Objective
 
 This project aims to analyze the COVID-19 pandemic through a series of basic visualization techniques. It includes a comparative study of China, where the virus originated, against the rest of the world, as well as predictions and time-series forecasting to understand the potential spread and impact of the virus in the coming days.
-Overview
+
+
+## Overview
 
 The repository contains a Jupyter notebook which is designed to:
 
@@ -30,18 +32,5 @@ Dependencies
     NumPy
     Matplotlib
     Scikit-learn
-    [Other relevant libraries and frameworks]
 
-Usage
 
-This notebook can be utilized by researchers, data scientists, and anyone with an interest in understanding the COVID-19 pandemic through data visualization and forecasting.
-Contributing
-
-Contributions to the project are welcome. Please refer to the contributing guidelines for more information.
-License
-
-This project is licensed under the [License Name] - see the LICENSE file for details.
-Acknowledgments
-
-    Organizations providing the data
-    Contributors to the project
